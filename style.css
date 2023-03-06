@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+h2 {
+    font-family: cursive;
+}
+
+p {
+    font-family: cursive;
+    font-size: 20px;
+    color: #4d0000;
+
+}
+h1 {
+    font-size: 60px;
+}
+li {
+    
+        font-family: cursive;
+        font-size: 20px;
+        color: #4d0000;   
+}
